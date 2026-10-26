@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>山水景点 · 上虞</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a class="nav-brand" href="index.html">上 虞</a>
+    <div class="nav-links">
+      <a href="index.html">主页</a>
+      <a href="history.html">历史人文</a>
+      <a href="tourism.html" class="active">山水景点</a>
+      <a href="food.html">风物美食</a>
+      <a href="economy.html">经济产业</a>
+      <a href="modern.html">青春上虞</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <h1>山水景点</h1>
+  <p>一江曹娥贯穿南北，覆卮山石浪与梯田并存，孝德园里一园承千年，海上花田四季轮转。</p>
+</header>
+
+<main>
+
+  <section>
+    <h2>4A 级核心景区</h2>
+    <div class="grid grid-2">
+      <div class="card">
+        <span class="tag">4A · 孝德文化</span>
+        <h3>中华孝德园（曹娥景区）</h3>
+        <p>坐落于上虞城区西南凤凰山麓，面积 37.5 公顷，是曹娥江省级风景名胜区的核心区块。景区以“孝文化”为主题，依托虞舜与曹娥两大人物，包含大舜庙、虞舜宗祠、般若寺、孝德文化展览馆等建筑群，并与韩美林先生创作的“象耕鸟耘”雕塑群相呼应。免费开放[reference:36]。</p>
+      </div>
+      <div class="card">
+        <span class="tag">4A · 冰川石浪</span>
+        <h3>覆卮山景区</h3>
+        <p>地处上虞岭南覆卮山麓，为上虞第一高峰。第四纪冰川遗迹“石浪群”规模宏大，千年梯田与原始村落相映成趣。景区全年全天开放，免门票，是回归自然、休闲徒步的理想去处[reference:37]。</p>
+      </div>
+      <div class="card">
+        <span class="tag">4A · 田园花海</span>
+        <h3>杭州湾海上花田</h3>
+        <p>位于嘉绍大桥南岸，占地 600 亩，以七彩田园和生态湿地为主体，包含二十四节气广场、海上花坊、水上游船、萌宠乐园等近 20 个子项目，是长三角休闲农业与观光的热门目的地[reference:38]。</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>人文地标</h2>
+    <div class="grid grid-3">
+      <div class="card">
+        <h3>曹娥庙</h3>
+        <p>被誉为“江南第一庙”，与中华孝德园相邻，是纪念孝女曹娥的重要场所，承载着上虞最核心的孝德记忆[reference:39]。</p>
+      </div>
+      <div class="card">
+        <h3>英台故里祝家庄</h3>
+        <p>梁祝传说中祝英台的故乡，是上虞梁祝文化最具体的空间载体[reference:40]。</p>
+      </div>
+      <div class="card">
+        <h3>白马春晖</h3>
+        <p>白马湖畔的春晖中学，近代教育圣地，校园与湖山相映，人文气息浓厚[reference:41]。</p>
+      </div>
+      <div class="card">
+        <h3>凤凰山考古遗址公园</h3>
+        <p>越窑青瓷的重要遗址节点，适合对陶瓷文明与考古感兴趣的访客[reference:42]。</p>
+      </div>
+      <div class="card">
+        <h3>瓷源文化小镇</h3>
+        <p>围绕越窑青瓷发源地打造的文旅小镇，可以近距离感受青瓷文化的当代转化[reference:43]。</p>
+      </div>
+      <div class="card">
+        <h3>丰惠古镇</h3>
+        <p>运河时代留下的古镇，老桥与旧街仍在讲述“通明而后丰惠”的往昔[reference:45]。</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>更多 3A 级景区</h2>
+    <div class="grid grid-3">
+      <div class="card"><h3>桃花源生态旅游区</h3><p>长塘镇，3A 级景区[reference:46]。</p></div>
+      <div class="card"><h3>盖北野藤葡萄公园</h3><p>盖北镇，葡萄采摘与田园观光结合[reference:47]。</p></div>
+      <div class="card"><h3>陈溪风情小镇</h3><p>陈溪乡，山水小镇风情[reference:48]。</p></div>
+      <div class="card"><h3>东山湖休闲旅游区</h3><p>上浦镇，东山文化的重要承载地[reference:49]。</p></div>
+      <div class="card"><h3>e游小镇景区</h3><p>曹娥街道，数字创意产业的展示窗口[reference:50]。</p></div>
+      <div class="card"><h3>耕读古镇</h3><p>下管镇，耕读文化主题古镇[reference:51]。</p></div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>上虞城市介绍 · <a href="index.html">返回主页</a></p>
+</footer>
+
+</body>
+</html>
